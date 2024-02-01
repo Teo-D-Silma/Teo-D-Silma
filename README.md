@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [teomlver@gmail.com](mailto:teomlver@gmail.com)
 * 🧠  I'm learning Java, Swift, Teaching CS.
 * 🤝  I'm open to collaborating on Interesting projects, iOs & java projects.
-* ⚡  I love running, gaming, riding my motorcycly and playing the guitar.
+* ⚡  I love running, gaming, riding my motorcycle and playing the guitar.
 
 ### Skills
 
